@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# 🎈 Protein Predictor
 
-A simple Streamlit app template for you to modify!
+An application meant to predict the protein structures via the inputted sequences.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
